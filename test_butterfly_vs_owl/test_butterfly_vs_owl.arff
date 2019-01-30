@@ -1,0 +1,15 @@
+@relation test_butterfly_vs_owl
+@attribute filename string
+@attribute class {BUTTERFLY,OWL}
+@data
+
+test_mno001.jpg,BUTTERFLY
+test_mno002.jpg,BUTTERFLY
+test_mno003.jpg,BUTTERFLY
+test_mno004.jpg,BUTTERFLY
+test_mno005.jpg,BUTTERFLY
+test_owl001.jpg,OWL
+test_owl002.jpg,OWL
+test_owl003.jpg,OWL
+test_owl004.jpg,OWL
+test_owl005.jpg,OWL
